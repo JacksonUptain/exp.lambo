@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lamborghini Gallardo 2010
+* source:	https://sketchfab.com/3d-models/lamborghini-gallardo-2010-ff0eb2242d0e42eb8b7034b4db639e56
+* author:	Artem P (https://sketchfab.com/temp0.crazy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lamborghini Gallardo 2010" (https://sketchfab.com/3d-models/lamborghini-gallardo-2010-ff0eb2242d0e42eb8b7034b4db639e56) by Artem P (https://sketchfab.com/temp0.crazy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
